@@ -1272,10 +1272,10 @@ audio {
 	display: none;
 }
 .message p {
-	font-family: 'Signika', sans-serif;
+	font-family: 'Microsoft YaHei', sans-serif;
 	font-size: 30px;
 	text-transform: uppercase;
-	color: #C4515C;
+	color: black;
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
 	font-weight: bold;
