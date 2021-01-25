@@ -1,4 +1,4 @@
-Teacher Li Birthday Celebration
+Wenshu Birthday Celebration
 
 
 Thanks for AJLoveCHina providing this module.
